@@ -1,0 +1,45 @@
+%sf-regular {
+    font-family: 'SFProDisplay-Regular', sans-serif;
+    font-weight: 400;
+}
+
+%sf-semibold {
+    font-family: 'SFProDisplay-Semibold', sans-serif;
+    font-weight: 600;
+}
+
+@-webkit-keyframes menu {
+    from {
+        left: 100vw;
+    }
+    to {
+        left: 0;
+    }
+}
+
+@-moz-keyframe menu {
+    from {
+        left: 100vw;
+    }
+    to {
+        left: 0;
+    }
+}
+
+@-o-keyframe menu {
+    from {
+        left: 100vw;
+    }
+    to {
+        left: 0;
+    }
+}
+
+@keyframes menu {
+    from {
+        left: 100vw;
+    }
+    to {
+        left: 0;
+    }
+}
